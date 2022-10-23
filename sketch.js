@@ -11,7 +11,7 @@ let sect = 4; //number of rows and columns
 let redHue, greenHue, blueHue; //the sliders for RGB
 
 function preload(){
-  img = loadImage('photo2.png'); //loading the photo
+  img = loadImage('./photo2.png'); //loading the photo
 }
 
 
